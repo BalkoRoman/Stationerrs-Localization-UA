@@ -10394,6 +10394,14 @@ Finished - 4
   </Interactables>
   <Interface>
     <Record>
+	  <Key>InventorySort</Key>
+	  <Value>Сортувати</Value>
+	</Record>
+	<Record>
+	  <Key>InventoryClose</Key>
+	  <Value>Закрити</Value>
+	</Record>
+	<Record>
 	  <Key>VenusPoiRegionFumaroleSteppeName</Key>
 	  <Value>Фумарольний степ</Value>
 	</Record>
@@ -10584,6 +10592,54 @@ Finished - 4
 	<Record>
 	  <Key>VenusPoiRegionPaleBrimstonePlainDescription</Key>
 	  <Value>Сірчані рівнини</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiCallanishPeakName</Key>
+	  <Value>Пік Калланіш</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiCallanishPeakDescription</Key>
+	  <Value>Найвища точка сектора</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiFalgasDescentName</Key>
+	  <Value>Спуск Фальґи</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiFalgasDescentDescription</Key>
+	  <Value>Крутий спуск до великої улоговини</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiBalgatanRidgeName</Key>
+	  <Value>Хребет Балґатан</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiBalgatanRidgeDescription</Key>
+	  <Value>Височіє над північною улоговиною</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiSouthCallanishPassName</Key>
+	  <Value>Південний перевал Калланіш</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiSouthCallanishPassDescription</Key>
+	  <Value>Безпечніший шлях у високогір’я</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiSidonGullyName</Key>
+	  <Value>Яр Сідон</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiSidonGullyDescription</Key>
+	  <Value>Захищений відрог великої улоговини</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiMorensFellName</Key>
+	  <Value>Плато Морена</Value>
+	</Record>
+	<Record>
+	  <Key>EuropaPoiMorensFellDescription</Key>
+	  <Value>Вітряна крижана пустеля</Value>
 	</Record>
 	<Record>
 	  <Key>EuropaPoiRegionBluePeakName</Key>
@@ -11518,7 +11574,7 @@ Finished - 4
 	  <Value>Центр кратера</Value>
 	</Record>
 	<Record>
-  <Key>VenusNamedRegionArtemisValleyName</Key>
+      <Key>VenusNamedRegionArtemisValleyName</Key>
 	  <Value>Долина Артеміди</Value>
 	</Record>
 	<Record>
@@ -12571,15 +12627,15 @@ Finished - 4
 	</Record>
 	<Record>
 	  <Key>VulcanPoiDogsheadCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiSorinCraterName</Key>
-	  <Value>Кратер Соріна</Value>
+	  <Value>Кратер Сорін</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiSorinCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiKalimarCraterName</Key>
@@ -12587,47 +12643,47 @@ Finished - 4
 	</Record>
 	<Record>
 	  <Key>VulcanPoiKalimarCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiCinderCraterName</Key>
-	  <Value>Шлаковий кратер</Value>
+	  <Value>Кратер Сіндер</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiCinderCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiValourCraterName</Key>
-	  <Value>Кратер Доблесті</Value>
+	  <Value>Кратер Валор</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiValourCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiOrenCraterName</Key>
-	  <Value>Кратер Орена</Value>
+	  <Value>Кратер Орен</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiOrenCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiTalonCraterName</Key>
-	  <Value>Кратер Кігтя</Value>
+	  <Value>Кратер Талон</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiTalonCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiToraCraterName</Key>
-	  <Value>Кратер Тори</Value>
+	  <Value>Кратер Тора</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiToraCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanPoiLomaCraterName</Key>
@@ -12635,7 +12691,371 @@ Finished - 4
 	</Record>
 	<Record>
 	  <Key>VulcanPoiLomaCraterDescription</Key>
-	  <Value> </Value>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDogsheadPassageSouthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDogsheadPassageNorthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiKalimarPlateauEastDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDustersOutcropDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDustersPlateauNorthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDustersPlateauSouthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSerpentRiseDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSouthernHighlandsDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiPollenKnollDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiPollenThumbDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCinderApproachDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSouthEasternWasteDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiBurningTrackDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiJanosPlateauDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiJanosSlopeDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiBreakersViewDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCrescentOutcropDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiLomaHighlandsDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTalonHighlandsDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiBurningSaddleDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTwinsViewDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSpearOverlookDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTwinsPassDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiPrometheusNorthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiPrometheusSouthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiNorthernWasteDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiGreyOverlookDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCrescentOverlookDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiValoursRiseDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiOrensTrackDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiBrokenPlateauDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiKalimarPlateauDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTalonHeightsWestDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+		<Record>
+	  <Key>VulcanPoiTalonHeightsDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSorinsDescentDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSorinsApproachDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiKalimarTrackDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiOrensWasteDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiOrensViewDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTranquilityRiseDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTalonRiseDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiAshRiseDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSpearValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiFingerValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiNarrowPassageDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDamonPassageDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTalonRiftDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiWestlandsGullyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiWestlandsDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiHalesDescentDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDantesValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCrescentValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiBreakersWalkDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiBreakersGullyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiForgottenValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiPeanutValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDogsfootDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDeepscarSouthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDeepscarNorthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiValleyOfHopeDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiOuterWasteDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSerpentValleyNorthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiSerpentValleySouthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiShatteredValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiValleyOfLossDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCinderTrackDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCinderGullyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiGreyChannelDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiNeedleValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCalamitySouthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCalamityNorthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiRedJunctionSouthEastDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiRedJunctionSouthWestDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiRedJunctionNorthWestDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiRedJunctionNorthEastDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDuchValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTranquilityNorthDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTranquilityWestDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTranquilityEastDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiIronValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiPepperGullyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiAshValleyDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiCinderPeakDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiMountSorinDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiDogsheadDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiTalonPeakDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiKalimarVentDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiMountValourDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiMountOrenDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiLomaDescription</Key>
+	  <Value>Нова локація</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanPoiToraDescription</Key>
+	  <Value>Нова локація</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnVestaValleyName</Key>
@@ -12643,7 +13063,7 @@ Finished - 4
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnVestaValleyDescription</Key>
-	  <Value>Глибока вулканічна долина, вирізьблена древніми потоками лави й оточена високими скелями</Value>
+	  <Value>Глибока вулканічна долина, вирізана давніми потоками лави та оточена високими скелями</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnEtnasFuryName</Key>
@@ -12651,7 +13071,7 @@ Finished - 4
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnEtnasFuryDescription</Key>
-	  <Value>Розтріскане рівнисте плато над лавовими тунелями з видом на далекі вулкани</Value>
+	  <Value>Розтріскана рівнина над лавовими тунелями з видом на далекі вулкани</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnIxionsDemiseName</Key>
@@ -12659,15 +13079,87 @@ Finished - 4
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnIxionsDemiseDescription</Key>
-	  <Value>Невблаганні пустки з зазубрених скель і обвалених магмових камер</Value>
+	  <Value>Нещадна пустка з гострих скель і зруйнованих магматичних камер</Value>
+	</Record>
+	<Record>
+	  <Key>SpawnRoundRobin</Key>
+	  <Value>По черзі</Value>
+	</Record>
+	<Record>
+	  <Key>SpawnRoundRobinDescription</Key>
+	  <Value>Кожен гравець розпочне гру в окремій локації.</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnTitusReachName</Key>
-	  <Value>Досяж Тита</Value>
+	  <Value>Плато Тита</Value>
 	</Record>
 	<Record>
 	  <Key>VulcanSpawnTitusReachDescription</Key>
-	  <Value>Рівне середньовисотне плато з видом на лавові озера та вулкани</Value>
+	  <Value>Рівне плато середньої висоти з видом на лавові озера та вулкани</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnSerpentPlateauName</Key>
+	  <Value>Плато Змія</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnSerpentPlateauDescription</Key>
+	  <Value>Розтрощена рівнина, що осідає до лавових озер</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnTalonHeightsName</Key>
+	  <Value>Висоти Талона</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnTalonHeightsDescription</Key>
+	  <Value>Вулканічна гірська долина в підвітряній тіні піка Талона</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnDusterPlateauNorthName</Key>
+	  <Value>Північне плато Дастера</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnDusterPlateauNorthDescription</Key>
+	  <Value>Захищене мікродолиною з видом на Долину Арахісу</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnCinderPeakName</Key>
+	  <Value>Пік Сіндера</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnCinderPeakDescription</Key>
+	  <Value>Глибока долина біля підніжжя гори Догсфут</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnRedJunctionName</Key>
+	  <Value>Червоний Вузол</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnRedJunctionDescription</Key>
+	  <Value>На берегах озера Джанкшн та озера Каламіті</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnOrensTrackName</Key>
+	  <Value>Шлях Орена</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnOrensTrackDescription</Key>
+	  <Value>Розташований між горою Орен і горою Валор, шлях Орена пропонує чимало простору для будівництва</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnDogsfootName</Key>
+	  <Value>Догсфут</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnDogsfootDescription</Key>
+	  <Value>Роздвоєне базальтове утворення, схоже на лапу, що забезпечує рідкісний захист від попелястих бур</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnKalimarOutlookName</Key>
+	  <Value>Оглядовий пункт Калімару</Value>
+	</Record>
+	<Record>
+	  <Key>VulcanSpawnKalimarOutlookDescription</Key>
+	  <Value>Ріка лави звивається долиною внизу під суворим поглядом жерла Калімару</Value>
 	</Record>
 	<Record>
 	  <Key>OkayConfirmation</Key>
@@ -28341,6 +28833,538 @@ Stationeers — це все: астронавти, інженери та дос�
 	  <Key>CancelLoadButton</Key>
 	  <Value>Скасувати</Value>
 	</Record>  
+    <Record>
+	  <Key>LandingGear</Key>
+	  <Value>Шасі</Value>
+	</Record>
+	<Record>
+	  <Key>Activate</Key>
+	  <Value>Активувати</Value>
+	</Record>
+	<Record>
+	  <Key>Deactivate</Key>
+	  <Value>Деактивувати</Value>
+	</Record>
+	<Record>
+	  <Key>LogicDescriptionStackSize</Key>
+	  <Value>Повертає розмір стека внутрішньої пам’яті пристрою.</Value>
+	</Record>
+	<Record>
+	  <Key>CantEquipThisBackpack</Key>
+	  <Value>{LOCAL:InvalidItem} не можна екіпірувати, коли одягнено {LOCAL:CurrentlyEquipped}</Value>
+	</Record>
+	<Record>
+	  <Key>ProportionalGainDescription</Key>
+	  <Value>Пропорційний коефіцієнт PID-контролера. Це значення визначає, наскільки агресивно контролер реагує на похибку між заданим значенням і поточним параметром процесу. Більше значення забезпечує швидшу реакцію, але може призвести до перевищення або нестабільності.</Value>
+	</Record>
+	<Record>
+	  <Key>IntegralGainDescription</Key>
+	  <Value>Інтегральний коефіцієнт PID-контролера. Це значення визначає, наскільки контролер реагує на накопичену з часом похибку. Більше значення допомагає усунути сталу похибку, але може спричинити коливання або нестабільність.</Value>
+	</Record>
+	<Record>
+	  <Key>DerivativeGainDescription</Key>
+	  <Value>Диференційний коефіцієнт PID-контролера. Це значення визначає, наскільки контролер реагує на швидкість зміни похибки. Більше значення допомагає приглушити коливання та підвищити стабільність, але може підсилювати шум.</Value>
+	</Record>
+	<Record>
+	  <Key>ResetDescription</Key>
+	  <Value>Скидає внутрішній стан PID-контролера, очищаючи накопичену похибку та встановлюючи вихідне значення на нуль. Корисно для перезапуску або відновлення після нестабільного стану.</Value>
+	</Record>
+	<Record>
+	  <Key>SetpointDescription</Key>
+	  <Value>Бажане значення, якого прагне досягти PID-контролер. Це цільове значення для параметра процесу, і контролер регулює вихід, щоб мінімізувати різницю між заданим і поточним значенням.</Value>
+	</Record>
+	<Record>
+	  <Key>MinimumDescription</Key>
+	  <Value>Мінімальне значення для заданого логічного пристрою.</Value>
+	</Record>
+	<Record>
+	  <Key>NetworkFaultDescription</Key>
+	  <Value>Під’єднана мережа має несправність, наприклад розрив труби або інший збій.</Value>
+	</Record>
+	<Record>
+	  <Key>LogicDescriptionMaturityRatio</Key>
+	  <Value>Показує, наскільки рослина наблизилась до зрілості у вигляді дробу від 0 до 1, де 1 — зріла та готова до збору.</Value>
+	</Record>
+	<Record>
+	  <Key>LogicDescriptionSeedingRatio</Key>
+	  <Value>Показує, наскільки рослина наблизилась до утворення насіння у вигляді дробу від 0 до 1, де 1 — стадія насіння і рослина дасть насіння під час збору.</Value>
+	</Record>
+	<Record>
+	  <Key>ScriptDescriptionBdnvl</Key>
+	  <Value>Виконує перехід на рядок a, якщо вказаний пристрій недійсний для інструкції завантаження для заданого типу логіки.</Value>
+	</Record>
+	<Record>
+	  <Key>ScriptDescriptionBdnvs</Key>
+	  <Value>Виконує перехід на рядок a, якщо вказаний пристрій недійсний для інструкції збереження для заданого типу логіки.</Value>
+	</Record>
+	<Record>
+	  <Key>ScriptDescriptionPow</Key>
+	  <Value>Зберігає результат піднесення a до степеня b у регістрі. Відповідає стандарту IEEE-754 для обчислень з плаваючою комою.</Value>
+	</Record>
+	<Record>
+	  <Key>ScriptDescriptionExt</Key>
+	  <Value>Витягує бітове поле з a, починаючи з b довжиною c, та розміщує його у вказаному регістрі. Корисне навантаження не може перевищувати 53 біти кінцевої довжини.</Value>
+	</Record>
+	<Record>
+	  <Key>ScriptDescriptionIns</Key>
+	  <Value>Вставляє бітове поле з a у вказаний регістр, починаючи з b довжиною c. Корисне навантаження не може перевищувати 53 біти кінцевої довжини.</Value>
+	</Record>
+	<Record>
+	  <Key>ScriptDescriptionLerp</Key>
+	  <Value>Лінійно інтерполює між a та b за коефіцієнтом c і записує результат у вказаний регістр. Значення c буде обмежене в діапазоні від 0 до 1.</Value>
+	</Record>
+	<Record>
+	  <Key>IceCrusherState</Key>
+	  <Value>Стан подрібнювача льоду</Value>
+	</Record>
+	<Record>
+	  <Key>InternalAtmosphere</Key>
+	  <Value>Внутрішня атмосфера</Value>
+	</Record>
+	<Record>
+	  <Key>IceCrusherSetting</Key>
+	  <Value>Нагріватиме, якщо нижче {LOCAL:Temperature}</Value>
+	</Record>
+	<Record>
+	  <Key>IceCrusherHeater</Key>
+	  <Value>Нагрівальний елемент</Value>
+	</Record>
+	<Record>
+	  <Key>IceCrusherHeating</Key>
+	  <Value>Робота уповільнена під час нагрівання до цільової температури {LOCAL:Temperature}</Value>
+	</Record>
+	<Record>
+	  <Key>IceCrusherIndicatorHeat</Key>
+	  <Value>Нагрів</Value>
+	</Record>
+	<Record>
+	  <Key>IceCrusherIndicatorIdle</Key>
+	  <Value>Очікування</Value>
+	</Record>
+	<Record>
+	  <Key>IceCrusherAtmosFull</Key>
+	  <Value>Внутрішня атмосфера заповнена</Value>
+	</Record>
+	<Record>
+	  <Key>BreathingAtmosphere</Key>
+	  <Value>Атмосфера для дихання</Value>
+	</Record>
+	<Record>
+	  <Key>CryogenicLiquid</Key>
+	  <Value>Кріогенна рідина</Value>
+	</Record>
+	<Record>
+	  <Key>NotPureLiquidNitrogen</Key>
+	  <Value>Рідина не є чистим рідким азотом</Value>
+	</Record>
+	<Record>
+	  <Key>CryoLiquidVolumeTooLow</Key>
+	  <Value>Обʼєм кріогенної рідини має перевищувати {LOCAL:Volume}</Value>
+	</Record>
+	<Record>
+	  <Key>CryoLiquidTemperatureTooHigh</Key>
+	  <Value>Кріогенна рідина має бути нижче {LOCAL:Temperature}</Value>
+	</Record>
+	<Record>
+	  <Key>CryoWillRevive</Key>
+	  <Value>Відновлює померлих пацієнтів</Value>
+	</Record>
+	<Record>
+	  <Key>CryoState</Key>
+	  <Value>Кріогенний стан</Value>
+	</Record>
+	<Record>
+	  <Key>SleeperState</Key>
+	  <Value>Стан капсули сну</Value>
+	</Record>
+	<Record>
+	  <Key>SleeperMetabolicSuspension</Key>
+	  <Value>Метаболічна зупинка активна</Value>
+	</Record>
+	<Record>
+	  <Key>SleeperDoorIsOpen</Key>
+	  <Value>Робота вимкнена, доки двері відчинені</Value>
+	</Record>
+	<Record>
+	  <Key>CryoWillHeal</Key>
+	  <Value>Лікує поранених пацієнтів</Value>
+	</Record>
+	<Record>
+	  <Key>Vacuum</Key>
+	  <Value>Вакуум</Value>
+	</Record>
+	<Record>
+	  <Key>Null</Key>
+	  <Value>Нуль</Value>
+	</Record>
+	<Record>
+	  <Key>VehicleIsNotDamaged</Key>
+	  <Value>{LOCAL:Rover} не пошкоджений</Value>
+	</Record>
+	<Record>
+	  <Key>PatchingRecipe</Key>
+	  <Value>{LOCAL:ModName} змінює рецепт для {LOCAL:PrefabName}</Value>
+	</Record>
+	<Record>
+	  <Key>UnknownMod</Key>
+	  <Value>Невідомо</Value>
+	</Record>
+	  <Record>
+	  <Key>ActionRepairRover</Key>
+	  <Value>Відремонтувати транспорт</Value>
+	</Record>
+	<Record>
+	  <Key>SlotVacant</Key>
+	  <Value>Вільно</Value>
+	</Record>
+	<Record>
+	  <Key>SlotOccupant</Key>
+	  <Value>Зайнято</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceNotForSpecies</Key>
+	  <Value>Цей пристрій не може використовуватися видом {LOCAL:Species}</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceNotConstructed</Key>
+	  <Value>{LOCAL:Thing} ще не повністю збудовано</Value>
+	</Record>
+	<Record>
+	  <Key>DevicePressureTooHigh</Key>
+	  <Value>{LOCAL:Thing} перевищує допустимий внутрішній тиск</Value>
+	</Record>
+	<Record>
+	  <Key>RocketGasCollectActionInfo</Key>
+	  <Value>Збирач: {LOCAL:OnOff}, наступний вихід: {LOCAL:Yield}</Value>
+	</Record>
+	<Record>
+	  <Key>CryoAtmosphereIsUnsafe</Key>
+	  <Value>Атмосфера для дихання є небезпечною</Value>
+	</Record>
+	<Record>
+	  <Key>CryoNoAtmosphericInput</Key>
+	  <Value>Відсутня мережа дихального газу</Value>
+	</Record>
+	<Record>
+	  <Key>CryoNoLiquidInput</Key>
+	  <Value>Відсутня мережа кріогенної рідини</Value>
+	</Record>
+	<Record>
+	  <Key>TradeActionData</Key>
+	  <Value>Містить {LOCAL:Value} одиниць даних</Value>
+	</Record>
+	<Record>
+	  <Key>RegionName</Key>
+	  <Value>Регіон: {LOCAL:Name}</Value>
+	</Record>
+	<Record>
+	  <Key>OldSaveDetected</Key>
+	  <Value>Виявлено 1 старе збереження</Value>
+	</Record>
+	<Record>
+	  <Key>OldSavesDetected</Key>
+	  <Value>Виявлено старих збережень: {LOCAL:Count}</Value>
+	</Record>
+	<Record>
+	  <Key>DeleteOldSave</Key>
+	  <Value>Ви впевнені, що хочете видалити 1 старе збереження?</Value>
+	</Record>
+	<Record>
+	  <Key>DeleteOldSaves</Key>
+	  <Value>Ви впевнені, що хочете видалити старих збережень: {LOCAL:Count}?</Value>
+	</Record>
+	<Record>
+	  <Key>SuitOperatingRangeText</Key>
+	  <Value>{LOCAL:Minimum} – {LOCAL:Maximum}</Value>
+	</Record>
+	<Record>
+	  <Key>RespawnHere</Key>
+	  <Value>Точку відродження встановлено</Value>
+	</Record>
+	<Record>
+	  <Key>Hydration</Key>
+	  <Value>Гідратація</Value>
+	</Record>
+	<Record>
+	  <Key>Nutrition</Key>
+	  <Value>Харчування</Value>
+	</Record>
+	<Record>
+	  <Key>Oxygenation</Key>
+	  <Value>Оксигенація</Value>
+	</Record>
+	<Record>
+	  <Key>Stun</Key>
+	  <Value>Оглушення</Value>
+	</Record>
+	<Record>
+	  <Key>NextWeatherHashDescription</Key>
+	  <Value>NextWeatherHash надає хеш-значення назви наступної погодної події у вигляді 32-бітного цілого числа.</Value>
+	</Record>
+	<Record>
+	  <Key>WeatherEventComing</Key>
+	  <Value>Наближається погодна подія</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceMustBeOutside</Key>
+	  <Value>{LOCAL:Device} не працюватиме в приміщенні</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceConfigMode</Key>
+	  <Value>Встановлено режим налаштування</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceOperateMode</Key>
+	  <Value>Встановлено режим роботи</Value>
+	</Record>
+	<Record>
+	  <Key>SlotItemProvidesPower</Key>
+	  <Value>{LOCAL:Item} забезпечує потужність {LOCAL:Power}</Value>
+	</Record>
+	<Record>
+	  <Key>CanReplaceFuselage</Key>
+	  <Value>Може замінювати інші фюзеляжі при утриманні {LOCAL:Tool}</Value>
+	</Record>
+	<Record>
+	  <Key>ShowerWillClean</Key>
+	  <Value>Очистить {LOCAL:Occupant}</Value>
+	</Record>
+	<Record>
+	  <Key>ShowerNotInPosition</Key>
+	  <Value>{LOCAL:Occupant} знаходиться недостатньо близько до душу</Value>
+	</Record>
+	<Record>
+	  <Key>ShowerCannotWhenWearing</Key>
+	  <Value>Неможливо прийняти душ, одягнувши {LOCAL:Thing}</Value>
+	</Record>
+	<Record>
+	  <Key>NamedThingDamageIsAt</Key>
+	  <Value>{LOCAL:Thing}: {LOCAL:DamageType} становить {LOCAL:Percent}</Value>
+	</Record>
+	<Record>
+	  <Key>CoolingAmount</Key>
+	  <Value>Охолодження: {LOCAL:Value}</Value>
+	</Record>
+	<Record>
+	  <Key>HeatingAmount</Key>
+	  <Value>Нагрівання: {LOCAL:Value}</Value>
+	</Record>
+	<Record>
+	  <Key>LogicDescriptionFreeSlots</Key>
+	  <Value>Кількість вільних слотів, доступних у цьому об’єкті.</Value>
+	</Record>
+	<Record>
+	  <Key>LogicDescriptionTotalSlots</Key>
+	  <Value>Загальна кількість слотів, доступних у цьому об’єкті.</Value>
+	</Record>
+	<Record>
+	  <Key>UnidentifiedPlayer</Key>
+	  <Value>Невідомий гравець</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerHasAlreadyRespawned</Key>
+	  <Value>&lt;color=green&gt;{LOCAL:UserName}&lt;/color&gt; вже &lt;color=yellow&gt;відродився&lt;/color&gt; і не може бути оживлений.</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerBodyBagDead</Key>
+	  <Value>&lt;color=green&gt;{LOCAL:UserName}&lt;/color&gt; &lt;color=red&gt;мертвий&lt;/color&gt; у мішку для тіла та очікує на відродження.</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerIsOnline</Key>
+	  <Value>&lt;color=green&gt;{LOCAL:UserName}&lt;/color&gt; &lt;color=green&gt;онлайн&lt;/color&gt;.</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerIsOffline</Key>
+	  <Value>&lt;color=green&gt;{LOCAL:UserName}&lt;/color&gt; &lt;color=yellow&gt;офлайн&lt;/color&gt;.</Value>
+	</Record>
+	<Record>
+	  <Key>BodyBagName</Key>
+	  <Value>Мішок для тіла (&lt;color=green&gt;{LOCAL:UserName}&lt;/color&gt;)</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerBelongings</Key>
+	  <Value>Речі</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerReviveInCryotube</Key>
+	  <Value>Помістіть &lt;color=green&gt;{LOCAL:UserName}&lt;/color&gt; у &lt;color=green&gt;Кріокапсулу&lt;/color&gt; для відродження.</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerRequestHelpUnconscious</Key>
+	  <Value>{LOCAL:UserName} у небезпеці та потребує допомоги.</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerRequestHelpDead</Key>
+	  <Value>{LOCAL:UserName} мертвий. Він запросив відродження у кріокапсулі.</Value>
+	</Record>
+	<Record>
+	  <Key>FoodContainerDecayReduction</Key>
+	  <Value>Псування зменшено до {LOCAL:Percent} всередині {LOCAL:Container}</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceNotClosed</Key>
+	  <Value>{LOCAL:Device} має бути зачинений для роботи</Value>
+	</Record>
+	<Record>
+	  <Key>CannotInteract</Key>
+	  <Value>Неможливо взаємодіяти</Value>
+	</Record>
+	<Record>
+	  <Key>EnergyTransfer</Key>
+	  <Value>Передача енергії</Value>
+	</Record> 
+	  <Record>
+	  <Key>HeatExchangeArea</Key>
+	  <Value>Площа поверхні</Value>
+	</Record>
+	<Record>
+	  <Key>HeatExchangeFromTo</Key>
+	  <Value>Теплообмін від {LOCAL:Input1} до {LOCAL:Input2}</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceNoPayload</Key>
+	  <Value>{LOCAL:Thing} не має навантаження</Value>
+	</Record>
+	<Record>
+	  <Key>EntityStarving</Key>
+	  <Value>Голодування</Value>
+	</Record>
+	<Record>
+	  <Key>EntityRespawnStress</Key>
+	  <Value>Виснаження після відродження</Value>
+	</Record>
+	<Record>
+	  <Key>ConsumptionSpeed</Key>
+	  <Value>Швидкість споживання</Value>
+	</Record>
+	<Record>
+	  <Key>ToolUseSpeed</Key>
+	  <Value>Швидкість використання інструменту</Value>
+	</Record>
+	<Record>
+	  <Key>TradePenalty</Key>
+	  <Value>Торговельний штраф</Value>
+	</Record>
+	<Record>
+	  <Key>DeviceIsNotOperable</Key>
+	  <Value>Пристрій не придатний до роботи</Value>
+	</Record>
+	<Record>
+	  <Key>PumpIntoPad</Key>
+	  <Value>Закачати на посадковий майданчик</Value>
+	</Record>
+	<Record>
+	  <Key>PumpIntoTank</Key>
+	  <Value>Закачати в бак</Value>
+	</Record>
+	<Record>
+	  <Key>Inward</Key>
+	  <Value>Всередину</Value>
+	</Record>
+	<Record>
+	  <Key>Outward</Key>
+	  <Value>Назовні</Value>
+	</Record>
+	<Record>
+	  <Key>Warning</Key>
+	  <Value>Попередження</Value>
+	</Record>
+	<Record>
+	  <Key>Critical</Key>
+	  <Value>Критично</Value>
+	</Record>
+	<Record>
+	  <Key>PartialPressureO2</Key>
+	  <Value>Парціальний тиск кисню</Value>
+	</Record>
+	<Record>
+	  <Key>LungsEfficiency</Key>
+	  <Value>Ефективність дихання</Value>
+	</Record>
+	<Record>
+	  <Key>ToxinDamage</Key>
+	  <Value>Токсичне ушкодження</Value>
+	</Record>
+	<Record>
+	  <Key>BurnDamage</Key>
+	  <Value>Опікове ушкодження</Value>
+	</Record>
+	<Record>
+	  <Key>VacuumDamage</Key>
+	  <Value>Ушкодження від вакууму</Value>
+	</Record>
+	<Record>
+	  <Key>DamageFromLackOfFood</Key>
+	  <Value>Втрата здоров’я через нестачу їжі</Value>
+	</Record>
+	<Record>
+	  <Key>DamageFromLackOfWater</Key>
+	  <Value>Втрата здоров’я через нестачу води</Value>
+	</Record>
+	<Record>
+	  <Key>RobotHasNoBattery</Key>
+	  <Value>Відсутня батарея</Value>
+	</Record>
+	<Record>
+	  <Key>RobotBatteryNoCharge</Key>
+	  <Value>Батарея розряджена</Value>
+	</Record>
+	<Record>
+	  <Key>PartialPressureN2O</Key>
+	  <Value>Парціальний тиск закису азоту</Value>
+	</Record>
+	<Record>
+	  <Key>Refreshed</Key>
+	  <Value>Бадьорий</Value>
+	</Record>
+	<Record>
+	  <Key>MovementSpeed</Key>
+	  <Value>Швидкість руху</Value>
+	</Record>
+	<Record>
+	  <Key>Hygiene</Key>
+	  <Value>Гігієна</Value>
+	</Record>
+	<Record>
+	  <Key>UnviableEggNotice</Key>
+	  <Value>{LOCAL:Name} нежиттєздатне</Value>
+	</Record>
+	<Record>
+	  <Key>WillHatchInto</Key>
+	  <Value>Вилупиться в {LOCAL:Thing}</Value>
+	</Record>
+	<Record>
+	  <Key>ViableEggNotice</Key>
+	  <Value>Інкубація потребує від {LOCAL:MinTemp} до {LOCAL:MaxTemp}</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerStateMoodDecreasing</Key>
+	  <Value>Настрій погіршується</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerStateMoodIncreasing</Key>
+	  <Value>Настрій покращується</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerStateHygieneDecreasing</Key>
+	  <Value>Гігієна погіршується</Value>
+	</Record>
+	<Record>
+	  <Key>PlayerStateHygieneIncreasing</Key>
+	  <Value>Гігієна покращується</Value>
+	</Record>
+	<Record>
+	  <Key>EggIsTooCold</Key>
+	  <Value>Яйцю занадто холодно</Value>
+	</Record>
+	<Record>
+	  <Key>EggIsTooHot</Key>
+	  <Value>Яйцю занадто спекотно</Value>
+	</Record>
+	<Record>
+	  <Key>FertilizedEggProcess</Key>
+	  <Value>{LOCAL:Thing} готове до вилуплення на {LOCAL:Percent}</Value>
+	</Record>
   </GameStrings>
   <GameTip />
 </Language>
