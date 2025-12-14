@@ -1,0 +1,49 @@
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Code>UK</Code>
+  <GameTip>
+    <String>Натисніть {KEY:HelmetSlot}, {KEY:SuitSlot}, {KEY:BackSlot}, {KEY:UniformSlot}, або {KEY:ToolBeltSlot}, щоб перемикатися між взаємодіями та слотами для будь-якого елемента, який ви носите. Натискайте і утримуйте, щоб перемикати цей слот з вашим активним рук.</String>
+    <String>Натискання {KEY:ToggleHandPower} або {KEY:SecondaryAction} вмикає/вимикає живлення для предметів у вашій руці.</String>
+    <String>Натискайте {KEY:ToggleLight}, щоб включити/вимкнути світло на {THING:ItemSpaceHelmet}.</String>
+    <String>Натискайте {KEY:EmoteWave}, щоб ваш персонаж помахав рукою іншим станціонерам.</String>
+    <String>Натискайте {KEY:Jetpack}, щоб включити/вимкнути {THING:ItemSpacepack}.</String>
+    <String>Натискайте {KEY:ToggleUI}, щоб включити/вимкнути інтерфейс користувача для знімків екрану або відео.</String>
+    <String>Натискайте {KEY:Ascend}, щоб піднятися вгору, коли на вас надягнуто {THING:ItemSpacepack}. Натискайте {KEY:Descend}, щоб спуститися.</String>
+    <String>Натискання {KEY:InventorySelect} перемикає між інвентарними слотами та вашою активною рукою.</String>
+    <String>Натискання {KEY:Drop} відкидає те, що у вас в руці. Утримуйте {KEY:Drop}, щоб кинути це. Тримайте довше, щоб кинути далі.</String>
+    <String>Натискання {KEY:SwapHands} перемикає вашу активну руку. Натискайте {KEY:ActiveHandSlot}, щоб циклічно вибирати варіанти взаємодії для предмета в вашій активній руці.</String>
+    <String>Натискайте {KEY:Internals}, щоб швидко відкрити або закрити {THING:ItemSpaceHelmet}.</String>
+    <String>Натискайте {KEY:Chatting}, щоб почати спілкуватися з іншими гравцями.</String>
+    <String>Натискайте {KEY:RotateLeft}, щоб повернути курсор будівництва вліво, {KEY:RotateRight}, щоб повернути вправо, {KEY:RotateUp}, щоб повернути вгору, {KEY:RotateDown}, щоб повернути вниз, {KEY:RotateRollLeft}, щоб покрутити вліво, або {KEY:RotateRollRight}, щоб покрутити вправо.</String>
+    <String>Космос не такий порожній, як здається.</String>
+    <String>Помістіть стек {THING:ItemIronOre} у запущену {THING:StructureArcFurnace}, щоб розплавити {THING:ItemIronIngot}.</String>
+    <String>Помістіть {THING:MotherboardLogic} в {THING:StructureComputer}, щоб увімкнути логіку з IC-чипом. Ви зможете додавати умови та дії для керування станами пристроїв в тій же мережі даних.</String>
+    <String>При зміні кількості чогось через кнопку в світі, утримуйте {KEY:QuantityModifier} під час натискання для використання менших інкрементів.</String>
+    <String>Використовуйте {THING:ItemKitLogicInputOutput}, щоб створити {THING:StructureLogicReader} або {THING:StructureLogicWriter}. Читачі дозволяють зчитувати значення з інших пристроїв, а записувачі дозволяють змінювати значення на пристроях. Поєднуючи з математичними блоками, ви можете створювати надзвичайно складні автоматизовані системи.</String>
+    <String>Використовуйте {THING:ItemKitLogicInputOutput}, щоб створити {THING:StructureLogicBatchReader} або {THING:StructureLogicBatchWriter}. Читачі дозволяють зчитувати значення з цілої групи пристроїв, а записувачі дозволяють змінювати значення на цілих групах пристроїв.</String>
+    <String>Використовуйте {THING:StructureRecycler}, щоб переробити предмети, які вам більше не потрібні, у корисні реактиви. Пропустіть вихідний {THING:ItemReagentMix} через {THING:StructureCentrifuge}, щоб переробити це назад в руду, готову для {THING:StructureFurnace}.</String>
+    <String>Використовуйте {THING:StructureHydraulicPipeBender}, щоб виробляти атмосферні предмети, такі як {THING:ItemKitAtmospherics}, що дозволяє будувати корисні машини, наприклад, {THING:StructureAirConditioner} або {THING:StructureFiltration}.</String>
+    <String>Чим більше пошкоджений ваш костюм, тим менш ефективно він працює. Дук-тейп допоможе це виправити.</String>
+    <String>Чим більше пошкоджений ваш костюм, тим менш ефективно він працює.</String>
+    <String>Після того, як оригінальний Посібник станціонера обрушився в сингулярність, його замінив Stationpedia. Натискайте {KEY:Help}, щоб відкрити його для порад у грі.</String>
+    <String>Ваш стартовий {THING:ItemEvaSuit} та {THING:ItemSpaceHelmet} загоряться в гарячих температурах. Використовуйте {THING:ItemHardSuit} у небезпечних умовах.</String>
+    <String>Програма станціонерів була заснована Агентством розробки позаземних досліджень для підтримки досліджень Сонячної системи та за її межами.</String>
+    <String>Приділяйте увагу попередженням вашого костюма. Вони допоможуть запобігти катастрофі.</String>
+    <String>{THING:ItemHardBackpack} може нести більше предметів, але не може нести вас!</String>
+    <String>Чим більше пошкоджений ваш костюм, тим менш ефективно він працює.</String>
+    <String>Якщо ваша станція здається сумною, підніміть настрій з допомогою мелодій з {THING:StructureKlaxon} або побудуйте свій власний семплер за допомогою логіки.</String>
+    <String>{THING:StructureHarvie} дозволяє повністю автоматизувати посадку, ріст і збирання рослин.</String>
+    <String>Розширені підказки можна увімкнути/вимкнути в меню налаштувань.</String>
+    <String>Ви можете очистити всі відкриті вікна на екрані одночасно, натискаючи {KEY:HideAllWindows}.</String>
+    <String>{THING:ItemCrowbar} можна використовувати для відкриття непідключених дверей і контролерів живлення.</String>
+    <String>{THING:ItemMiningDrill} можна переключити в режим "Вирівнювання", щоб створювати рівні підлоги під час видобутку.</String>
+    <String>{THING:ItemWearLamp} можна використовувати для освітлення без шолома.</String>
+    <String>Утримуючи {KEY:MouseControl}, ви можете увімкнути курсор миші і перетягувати предмети в та з інвентарю або між слотами.</String>
+    <String>Базовий космічний шолом ізолює станціонерів від усього, від вакууму до дивних запахів приготування їжі.</String>
+    <String>Фізика — ваш друг. Поки це не стане не так.</String>
+    <String>Регулятор тертя — це бі-rotational модель з колонованим уні-грипом. Це не просто викрутка.</String>
+    <String>Це насправді не "молоко", а запатентований синтез {THING:ItemSoyOil} і {THING:ItemFern}, тонко змішаний в {THING:ApplianceChemistryStation}.</String>
+    <String>Іллегально на Землі з часів події в Ченду, ядерні батареї Norsec знайшли новий і значно менш безпечний ринок за межами Землі.</String>
+    <String>Голодні? Пластівці компактні, поживні і мають низький рівень радіації.</String>
+    <String>Стомилися від заміни звичайних фільтрів? Середні та важкі фільтри служать в 5 разів і 20 разів довше, але коштують дорожче.</String>
+</GameTip>
+</Language>

@@ -1,0 +1,195 @@
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <Name>Ukraine</Name>
+  <Code>UK</Code>
+  <Font>font_english</Font>
+  <ScreenSpaceToolTips>
+    <Record>
+	  <Key>StatusIconToxinName</Key>
+	  <Value>Токсини</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconToxinDesc</Key>
+	  <Value>Поточний рівень токсичності</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconToxinWarning</Key>
+	  <Value>Потребує уваги</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconHydrationDesc</Key>
+	  <Value>Рівень гідратації знижується</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconHydrationKey</Key>
+	  <Value>Гідратація Низька</Value>
+	</Record>
+	<Record>
+	  <Key>HydrationCaution</Key>
+	  <Value>Увага Гідратація</Value>
+	</Record>
+	<Record>
+	  <Key>HydrationCritical</Key>
+	  <Value>Критичний рівень гідратації</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconToxinCritical</Key>
+	  <Value>У критичному стані</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconOxygenName</Key>
+	  <Value>Постачання кисню</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconOxygenDesc</Key>
+	  <Value>Атмосфера, якою ви дихаєте, завдає шкоди вашим легеням.</Value>
+	</Record>
+    <Record>
+	  <Key>StatusIconOxygenWarning</Key>
+	  <Value>Запас кисню в костюмі закінчується, потребує уваги</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconOxygenCritical</Key>
+	  <Value>Запас кисню в костюмі критичний, замініть балон з киснем</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconPressureName</Key>
+	  <Value>Внутрішній тиск</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconPressureDesc</Key>
+	  <Value>Поточний рівень тиску, перевірте тиск в костюмі</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconPressureWarning</Key>
+	  <Value>Тиск в костюмі низький</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconPressureCritical</Key>
+	  <Value>Тиск в костюмі критично низький</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconTemperatureName</Key>
+	  <Value>Внутрішня температура</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconTemperatureDesc</Key>
+	  <Value>Поточна температура всередині вашого костюма</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconTemperatureWarning</Key>
+	  <Value>Поточний рівень токсичності</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconTemperatureCritical</Key>
+	  <Value>Поточний рівень токсичності</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconLeakingName</Key>
+	  <Value>Костюм протікає</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconPowerName</Key>
+	  <Value>Постачання енергії костюма</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconPowerDesc</Key>
+	  <Value>Енергія вичерпується</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconGravityName</Key>
+	  <Value>Нульова гравітація</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconJetpackName</Key>
+	  <Value>Реактивний ранець активований</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconClimbingName</Key>
+	  <Value>Лазіння</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconLightName</Key>
+	  <Value>Перемикання ліхтаря</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconInternalsName</Key>
+	  <Value>Перемикання шолома (відкриття/закриття)</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconHandPowerName</Key>
+	  <Value>Перемикання предмета в руці (ввімк/вимк)</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconInSlotName</Key>
+	  <Value>Ви знаходитесь в слоті</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconHungerName</Key>
+	  <Value>Поточний рівень голоду</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconStunName</Key>
+	  <Value>Рівень оглушення</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconAirTankName</Key>
+	  <Value>Поточна ємність балону з повітрям</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconJetpackWarningName</Key>
+	  <Value>Запас пального реактивного ранця</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconJetpackWarningDesc</Key>
+	  <Value>Паливо закінчується</Value>
+	</Record>
+    <Record>
+	  <Key>StatusIconFilterName</Key>
+	  <Value>Ємність фільтра</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconWasteName</Key>
+	  <Value>Ємність для відходів</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconWasteDesc</Key>
+	  <Value>Резервуар для відходів майже повний</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconHealthName</Key>
+	  <Value>Поточне здоров'я</Value>
+	</Record>
+    <Record>
+      <Key>StatusIconHealthDesc</Key>
+      <Value>Низький рівень здоров’я</Value>
+    </Record>	
+	<Record>
+	  <Key>StatusIconHydrationName</Key>
+	  <Value>Поточне зволоження</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconUnconsciousName</Key>
+	  <Value>Без свідомості</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconMoodName</Key>
+	  <Value>Поточний настрій</Value>
+	</Record>
+	<Record>
+	  <Key>StatusIconHygieneName</Key>
+	  <Value>Поточна гігієна</Value>
+	</Record>
+	<Record>
+	  <Key>DeconstructCanisterFull</Key>
+	  <Value>Неможливо розібрати. Балон має бути порожнім</Value>
+	</Record>
+    <Record>
+      <Key>StatusIconLeavingAreaName</Key>
+      <Value>Вихід за межі зони місії</Value>
+    </Record>
+    <Record>
+      <Key>StatusIconLeavingAreaDesc</Key>
+      <Value>Вийшли за межі, поверніться назад</Value>
+    </Record>  
+  </ScreenSpaceToolTips>
+</Language>
